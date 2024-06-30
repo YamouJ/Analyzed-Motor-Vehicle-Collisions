@@ -66,8 +66,8 @@ This analysis not only enhances our understanding of collision trends but also u
 To address the challenges highlighted by this analysis, policymakers should leverage these insights to develop proactive measures aimed at reducing both the frequency and severity of motor vehicle collisions in New York City. Evidence-based interventions should prioritize addressing the identified top contributing factors, with targeted campaigns and enforcement efforts aimed at reducing inattentive or distracted driving and improving right-of-way compliance. Additionally, implementing seasonal safety initiatives can mitigate risks during high-incidence periods for pedestrians, cyclists, and motorists. By fostering collaboration between governmental agencies, community organizations, and the public, New York City can work towards a safer and more resilient transportation environment.
 
 ### References 
-Meteostat weather API
-ChatGPT
+- Meteostat weather API
+- ChatGPT
 
 
 
