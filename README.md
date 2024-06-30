@@ -37,9 +37,15 @@ frequency and severity of these collisions.
 - Brooklyn experiences the highest number of motor vehicle collisions each year, ranging from 70,405 to 70,518.
 - Staten Island experiences the lowest number of motor vehicle collisions each year, ranging from 8,717 to 8,731.
 
+<img width="648" alt="Screenshot 2024-06-30 at 2 23 29 PM" src="https://github.com/YamouJ/Analyzed-Motor-Vehicle-Collisions/assets/167350506/fc0ca5c4-b354-4334-9543-dbb86ae27322">
+
+
 #### Top Contributing Factors to Collisions:
 - Inattentive or distracted driving.
 - Failure to yield the right of way.
+
+<img width="648" alt="Screenshot 2024-06-30 at 2 09 30 PM" src="https://github.com/YamouJ/Analyzed-Motor-Vehicle-Collisions/assets/167350506/2e128360-7fef-47d9-975b-711631b70b56">
+
 
 #### Vehicle Injury Types Across Seasons:
 - Fall Season: The highest number of pedestrian injuries occurs during this time of year.
