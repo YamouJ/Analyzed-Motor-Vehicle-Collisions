@@ -16,13 +16,26 @@ frequency and severity of these collisions.
 
 ## Below are the key findings from our analysis:
 
-#### Collision Trends by Borough
-- Inattentive or distracted driving
-- Failure to yield the right of way
+#### Collision Trends by Borough:
+- Brooklyn experiences the highest number of motor vehicle collisions each year, ranging from 70,405 to 70,518.
+- Staten Island experiences the lowest number of motor vehicle collisions each year, ranging from 8,717 to 8,731.
+
+#### The Top Two Contributing Factors to Collisions Are:
+- Inattentive or distracted driving.
+- Failure to yield the right of way.
 
 #### Vehicle Injury Types Across Seasons:
 - Fall Season: The highest number of pedestrian injuries occurs during this time of year.
 - Summer: The highest number of motorist and cyclist injuries occurs during this time of year.
+
+#### Pedestrian, Cyclist, and Motorist Injuries by Borough:
+- Brooklyn has the highest number of accidents and injuries in all categories.
+- Most collisions occur between 12 PM and 6 PM.
+
+#### Most Deaths by Vehicle Type:
+- Sedan
+- Station Wagon/Sport Utility Vehicle
+
 
 
 
