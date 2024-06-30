@@ -1,5 +1,31 @@
 # Analyzed-Motor-Vehicle-Collisions
 
+## Table of Contents
+
+1. - [Project Overview](#project-overview)
+2. - [Dataset Description](#dataset-description)
+3. - [Key Findings](#key-findings)
+4. - [Collision Trends by Borough](#collision-trends-by-borough)
+5. - [Top Contributing Factors to Collisions](#top-contributing-factors-to-collisions)
+6. - [Vehicle Injury Types Across Seasons](#vehicle-injury-types-across-seasons)
+7. - [Pedestrian, Cyclist, and Motorist Injuries by Borough](#pedestrian-cyclist-and-motorist-injuries-by-borough)
+8. - [Most Deaths by Vehicle Type](#most-deaths-by-vehicle-type)
+9. - [Conclusion](#conclusion)
+10. - [Recommendations](#recommendations)
+11. - [References](#references)
+
+Project Overview
+Dataset Description
+Key Findings
+Collision Trends by Borough
+Top Contributing Factors to Collisions
+Vehicle Injury Types Across Seasons
+Pedestrian, Cyclist, and Motorist Injuries by Borough
+Most Deaths by Vehicle Type
+Conclusion
+Recommendations
+References
+
 ## Project Overview
 I analyzed the Motor Vehicle Collisions - Crashes dataset from NYC Open Data. This dataset contains details of all motor vehicle collisions reported by the NYPD in the Bronx, Brooklyn, Queens, Manhattan, and Staten Island. I focused on data from 2019 to 2022 to identify trends and outliers, as this period includes pre-COVID, during-COVID, and post-COVID data. With 26 different columns in the dataset, I selected specific identifiers to support my analysis. These identifiers include:
 
@@ -9,18 +35,18 @@ I analyzed the Motor Vehicle Collisions - Crashes dataset from NYC Open Data. Th
 4. Number of people killed by vehicle type.
 5. Weather as a contributing factor to motor vehicle collisions.
 
-## Dataset
+## Dataset Description:
 The dataset was released by the New York City government and provides invaluable insights into motor vehicle collisions in NYC, serving as a crucial resource for analyzing trends and patterns in these incidents. I selected this dataset because motor vehicle collisions pose significant public safety concerns and carry substantial economic and social costs. 
 My objective is to leverage these findings to provide policymakers with informed insights and contribute to the development of robust strategies aimed at mitigating both the 
 frequency and severity of these collisions.
 
-## Below are the key findings from our analysis:
+## Key Findings:
 
 #### Collision Trends by Borough:
 - Brooklyn experiences the highest number of motor vehicle collisions each year, ranging from 70,405 to 70,518.
 - Staten Island experiences the lowest number of motor vehicle collisions each year, ranging from 8,717 to 8,731.
 
-#### The Top Two Contributing Factors to Collisions Are:
+#### Top Contributing Factors to Collisions:
 - Inattentive or distracted driving.
 - Failure to yield the right of way.
 
