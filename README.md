@@ -1,5 +1,7 @@
 # Analyzed-Motor-Vehicle-Collisions
 
+In analyzing the Motor Vehicle Collisions - Crashes dataset, I utilized Python and Meteostat for advanced data analysis. Python facilitated data processing, exploratory data analysis, and statistical computations, while Meteostat provided weather data integration to assess its influence on collision patterns and contributing factors. This approach enabled a comprehensive evaluation of trends and insights to inform strategies for enhancing urban safety and mitigating collision risks.
+
 ## Table of Contents
 
 1. - [Project Overview](#project-overview)
