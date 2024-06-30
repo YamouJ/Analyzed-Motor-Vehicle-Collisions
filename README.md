@@ -14,17 +14,6 @@
 10. - [Recommendations](#recommendations)
 11. - [References](#references)
 
-Project Overview
-Dataset Description
-Key Findings
-Collision Trends by Borough
-Top Contributing Factors to Collisions
-Vehicle Injury Types Across Seasons
-Pedestrian, Cyclist, and Motorist Injuries by Borough
-Most Deaths by Vehicle Type
-Conclusion
-Recommendations
-References
 
 ## Project Overview
 I analyzed the Motor Vehicle Collisions - Crashes dataset from NYC Open Data. This dataset contains details of all motor vehicle collisions reported by the NYPD in the Bronx, Brooklyn, Queens, Manhattan, and Staten Island. I focused on data from 2019 to 2022 to identify trends and outliers, as this period includes pre-COVID, during-COVID, and post-COVID data. With 26 different columns in the dataset, I selected specific identifiers to support my analysis. These identifiers include:
