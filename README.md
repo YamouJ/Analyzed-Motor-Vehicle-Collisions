@@ -17,5 +17,12 @@ frequency and severity of these collisions.
 ## Below are the key findings from our analysis:
 
 #### Collision Trends by Borough
+- Inattentive or distracted driving
+- Failure to yield the right of way
+
+#### Vehicle Injury Types Across Seasons:
+- Fall Season: The highest number of pedestrian injuries occurs during this time of year.
+- Summer: The highest number of motorist and cyclist injuries occurs during this time of year.
+
 
 
