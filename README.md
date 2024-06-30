@@ -51,13 +51,24 @@ frequency and severity of these collisions.
 - Fall Season: The highest number of pedestrian injuries occurs during this time of year.
 - Summer: The highest number of motorist and cyclist injuries occurs during this time of year.
 
+<img width="566" alt="Screenshot 2024-06-30 at 2 30 48 PM" src="https://github.com/YamouJ/Analyzed-Motor-Vehicle-Collisions/assets/167350506/d229d799-2ea7-4792-9745-f6234604cb70">
+<img width="566" alt="Screenshot 2024-06-30 at 2 30 10 PM" src="https://github.com/YamouJ/Analyzed-Motor-Vehicle-Collisions/assets/167350506/56bcf2d2-cd59-4943-be68-45d26129d786">
+
+
 #### Pedestrian, Cyclist, and Motorist Injuries by Borough:
 - Brooklyn has the highest number of accidents and injuries in all categories.
 - Most collisions occur between 12 PM and 6 PM.
 
+<img width="566" alt="Screenshot 2024-06-30 at 2 38 05 PM" src="https://github.com/YamouJ/Analyzed-Motor-Vehicle-Collisions/assets/167350506/c3fd1c90-2834-4efc-9e17-56bb4b87884b">
+<img width="566" alt="Screenshot 2024-06-30 at 2 34 58 PM" src="https://github.com/YamouJ/Analyzed-Motor-Vehicle-Collisions/assets/167350506/072ca039-711d-4068-af80-bd7b0cc3daba">
+
+
 #### Most Deaths by Vehicle Type:
 - Sedan
 - Station Wagon/Sport Utility Vehicle
+
+<img width="900" alt="Screenshot 2024-06-30 at 2 26 39 PM" src="https://github.com/YamouJ/Analyzed-Motor-Vehicle-Collisions/assets/167350506/dd59978e-4821-44d3-a24b-fc926d86b9ca">
+
 
 ## Conclusion
 
